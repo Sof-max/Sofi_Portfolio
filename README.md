@@ -1,6 +1,6 @@
 # Sofi_Portfolio
 
-# Information about me
+# [Information about me](https://github.com/Sof-max/portfolio.git)
 * My name is Sofja Petrisheva
 * I'm 17 years old
 * Graduated from school in Russian and now I'm going to college in Vienna for a pastry chef
